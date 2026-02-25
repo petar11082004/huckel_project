@@ -1,5 +1,3 @@
-# Submission branch for marking
-
 # Hückel Project
 
 A small Python project for building and analyzing simple Hückel (tight-binding) Hamiltonians for conjugated systems.  
